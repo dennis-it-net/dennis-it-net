@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis
 - 👀 I’m interested in DevOps, cybersecurity, and blockchain technology
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning ELK
 - 💞️ I’m looking to collaborate on smart contracts
 - 📫 How to reach me: dennis@dennisit.net
 
